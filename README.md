@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=f54336)
+![header](https://capsule-render.vercel.app/api?type=wave&color=f5e35d)
 # 유진 (YuJIn)
 🌼 I’m SpartaCodingClub student 22.10.31. ~ 23.03.07.<br>
 🍋 I’m currently learning TypeScript, Node.js<br>
