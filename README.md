@@ -3,8 +3,9 @@
 🌼 I’m SpartaCodingClub student 22.10.31. ~ 23.03.07. (4 months)<br>
 🍋 I’m currently learning TypeScript, Node.js<br>
 🌻 I majored in nursing and education<br>
-🏡 I live in Seoul, Korea
-💛 I love my study group members [Study](https://www.notion.so/Sparta-Coding-Club_WEB-Study-d511462df9cb4a43b4637a9956836ac2)<br>
+🏡 I live in Seoul, Korea<br>
+💛 I love my study group members <br>
+📚 [Study Page](https://www.notion.so/Sparta-Coding-Club_WEB-Study-d511462df9cb4a43b4637a9956836ac2)<br>
 <br>
 <br>
 
