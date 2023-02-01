@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=d94404)
 # 유진 (YuJIn)
 🌼 I’m SpartaCodingClub student 22.10.31. ~ 23.03.07. (4 months)<br>
-🍋 I’m currently learning TypeScript, Node.js<br>
+🍋 I’m currently learning ```TypeScript``` , ```Node.js```<br>
 🌻 I majored in nursing and education<br>
 🏡 I live in Seoul, Korea<br>
 💛 I love my study group members <br>
